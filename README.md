@@ -37,6 +37,8 @@ The API will be available at:
 
     http://localhost:8000
     Swagger UI: http://localhost:8000/docs
+<img width="761" height="690" alt="image" src="https://github.com/user-attachments/assets/03df2f47-dd5c-4cb9-8225-791e51e71463" />
+
 ```
 
 
@@ -57,6 +59,8 @@ The API is now running inside the container and accessible at:
 
     http://localhost:8000
     Swagger UI: http://localhost:8000/docs
+<img width="761" height="690" alt="image" src="https://github.com/user-attachments/assets/cd875d6f-ef62-4e45-8e96-d5d41fa3a013" />
+
 ```
 ## 4. API Usage & Demo
 Automatic Documentation
@@ -78,6 +82,7 @@ curl -X 'POST' \
   "petal_length": 1.4,
   "petal_width": 0.2
 }'
+
 ```
 Expected Response
 
